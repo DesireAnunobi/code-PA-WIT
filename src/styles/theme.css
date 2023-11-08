@@ -1,0 +1,10 @@
+:root {
+    --text: rgb(247, 161, 3);
+    --background: beige;
+    --logo-button:  rgba(218, 28, 101, 0.959);
+    --background-fade: rgba(212, 83, 159, 0.849);
+    
+    --foreground-fade: rgba(255,255,255,0.3);
+    --accent-text: black;
+    --button: gray;
+  }
